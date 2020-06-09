@@ -15,7 +15,7 @@ public class Main {
 
         System.out.println();
 
-        bst.remove(9);
+        bst.remove(7);
         BinaryTrees.print(bst);
     }
 }
